@@ -1,0 +1,18 @@
+# Tillad ikke at kunne se fil struktur
+# Options -Indexes
+
+# allow Indexes
+Options +Indexes
+
+# Order Deny,Allow
+# Deny from all
+
+# Allow from private IP ranges
+# Allow from 10.0.0.0/8
+Allow from 172.16.0.0/12
+# Allow from 192.168.0.0/16
+
+# Quickpay - callback
+
+# Allow from vezit.net
+# Allow from 83.90.129.191
