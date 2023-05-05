@@ -1,3 +1,9 @@
+---
+title: Victor's CV
+lang: da
+---
+
+
 # Victor Reipur
 
 _Vinkelvej 12D, 3.tv, 2800 Kongens Lyngby_  

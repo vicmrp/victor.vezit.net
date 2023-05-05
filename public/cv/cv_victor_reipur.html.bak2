@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>Victor’s CV</title>
   <style>
     code{white-space: pre-wrap;}
@@ -14,7 +14,6 @@
     ul.task-list{list-style: none;}
   </style>
   <link rel="stylesheet" href="cv_style.css" />
-  <link rel="icon" href="favicon.ico">
 </head>
 <body>
 <header id="title-block-header">
