@@ -1,0 +1,22 @@
+apt-get install texlive-xetex
+
+# used to convert .md to .pdf
+# pandoc input.md -o output.pdf
+# @depends on texlive-xetex
+apt-get install pandoc
+
+
+# To make pandoc work properly you also need to replace this line of code 
+
+
+# 1 Run the following command to output the default Pandoc HTML template to a file called custom-template.html:
+# pandoc -D html > custom-template.html
+
+# 2 Open custom-template.html in a text editor and look for the following line:
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+
+# 3 Replace it with the following line:
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+# pandoc cv.md --from markdown --to html --standalone --css=cv_style.css --include-in-header=cv_md_header.html --template=custom-template.html --variable lang="da" -o cv_victor_reipur.html
