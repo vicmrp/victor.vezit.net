@@ -1,0 +1,19 @@
+Technical skills: 
+Projects: 
+vezit.net - github.com/vicmrp/webshop My personal webshop - school project
+lfk.vezit.net - github.com/vicmrp/lfk My frisbee clubs website
+
+
+
+Work experience: 
+Netto, Harald Nyborg 2010-2012, Silvan, DTU, Sgups ejendomme, 
+Education: 
+Datatekniker med speciale i programmering
+Gynasiel uddannelse med speciale i matematik
+
+Soft skills: 
+C#, CPP, C, Java, Python, HTML, CSS, JavaScript, PHP, SQL, Bash, Git, Linux, Windows, Android, IOS, Arduino, Raspberry Pi, Unity, Microsoft Office, Adobe Lightroom, 
+
+Awards and recognition: 
+
+Github profile: github.com/vicmrp
