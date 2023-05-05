@@ -8,5 +8,6 @@ Options +Indexes
 RewriteEngine On
 
 # Redirect root to /cv
+RewriteRule ^$ /cv/ [L,R=301]
 
 
