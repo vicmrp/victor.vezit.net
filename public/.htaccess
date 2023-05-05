@@ -6,4 +6,7 @@ Options +Indexes
 
 
 RewriteEngine On
-RewriteRule ^$ /curriculum-vitae/ [L]
+
+# Redirect root to /cv
+
+

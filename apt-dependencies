@@ -1,0 +1,6 @@
+apt-get install texlive-xetex
+
+# used to convert .md to .pdf
+# pandoc input.md -o output.pdf
+# @depends on texlive-xetex
+apt-get install pandoc

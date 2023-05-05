@@ -1,1 +1,7 @@
-import {defaultJavaScript} from '../vezit-service-global/js/comm-script.js'; defaultJavaScript.commScript()
+const cvImage = document.querySelector(".cv-image");
+cvImage.addEventListener("mouseover", () => {
+    cvImage.style.opacity = "0.7";
+});
+cvImage.addEventListener("mouseout", () => {
+    cvImage.style.opacity = "1";
+});
